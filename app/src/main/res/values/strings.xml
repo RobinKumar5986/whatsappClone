@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">whatsappClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invite_a_friend">Invite a Friend</string>
+    <string name="about_us">About US</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="notification">Notification</string>
+    <string name="help">Help</string>
+</resources>
